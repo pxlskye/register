@@ -1,1 +1,11 @@
-
+{
+    "description": "shifat.owns.it.com domain for github pages",
+    "repo": "https://github.com/ShifatShakhawat/shifat.owns.it",
+    "owner": {
+        "username": "ShifatShakhawat",
+        "email": "shifat@duck.com"
+    },
+    "records": {
+        "CNAME": "ShifatShakhawat.github.io"
+    }
+}

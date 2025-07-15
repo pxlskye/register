@@ -1,10 +1,11 @@
 {
-    "domain": "_github-pages-challenge-shifatshakhawat.shifat.owns.it.com",
+    "domain": "shifat.owns.it.com",
+    "subdomain": "_github-pages-challenge-shifatshakhawat",
     "owner": {
         "username": "ShifatShakhawat",
         "email": "shifat@duck.com"
     },
-    "records": {
+    "record": {
         "TXT": "6576709c735f1491fe78dbefd7433f"
     }
 }

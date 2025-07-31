@@ -1,0 +1,16 @@
+{
+    "description": "Vaibhav website",
+    "domain": "owns.it.com",
+    "subdomain": "vaibhav",
+    
+    "owner": {
+        "repo": "https://github.com/dev-vaibhav-0/dev-vaibhav-0",
+        "email": "asdfghbvqqqq@gmail.com"
+    },
+    
+    "record": {
+        "CNAME": "dev-vaibhav-0.github.io"
+    },
+    
+    "proxied": false
+}

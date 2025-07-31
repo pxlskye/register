@@ -1,17 +1,16 @@
 {
-    "description": "Doni's personal website",
-    "domain": "owns.it.com",
-    "subdomain": "doni",
-    
-    "owner": {
-        "repo": "https://github.com/slashedzer0",
-        "email": "doniwicaksonox@gmail.com"
-    },
-    
-    "record": {
-        "CNAME": "wcks.vercel.app",
-        "TXT": ["vc-domain-verify=doni.owns.it.com,029084c77e09f733f0e5"]
-    },
-    
-    "proxied": false
+  "description": "Doni's personal website",
+  "domain": "owns.it.com",
+  "subdomain": "doni",
+
+  "owner": {
+    "repo": "https://github.com/slashedzer0",
+    "email": "doniwicaksonox@gmail.com"
+  },
+
+  "record": {
+    "CNAME": "wcks.vercel.app"
+  },
+
+  "proxied": false
 }

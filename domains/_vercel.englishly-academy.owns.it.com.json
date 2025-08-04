@@ -12,5 +12,5 @@
         "TXT": "vc-domain-verify=englishly-academy.owns.it.com,27a2dc975ba2d882b4a4"
     },
 
-    "proxied": true
+    "proxied": false
 }

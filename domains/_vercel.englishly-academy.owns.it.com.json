@@ -1,0 +1,16 @@
+{
+    "description": "An English Academy Website for people to book demo classes.",
+    "domain": "owns.it.com",
+    "subdomain": "englishly-academy",
+
+    "owner": {
+        "repo": "https://github.com/lakshinhemachandran/Englishly-Commission",
+        "email": "ak.no@outlook.com"
+    },
+
+    "record": {
+        "TXT": "vc-domain-verify=englishly-academy.owns.it.com,27a2dc975ba2d882b4a4"
+    },
+
+    "proxied": true
+}
